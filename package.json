@@ -1,0 +1,14 @@
+{
+  "name": "factorial-feature",
+  "version": "1.0.0",
+  "description": "test-driven development to build a factorial method",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "author": "Tigin",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.0"
+  }
+}

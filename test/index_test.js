@@ -15,6 +15,7 @@ describe('Calculate', () => {
       assert.equal(actual, expected);
 
       //Teardown - Delete the method under test
+      delete calculate;
     });
 
     it('returns 1 as factorial if input was 0', () => {
@@ -29,6 +30,7 @@ describe('Calculate', () => {
       assert.equal(actual, expected);
 
       //Teardown - Delete the method under test
+      delete calculate;
     });
 
     it('returns "No input given." if no input was given', () => {
@@ -43,6 +45,7 @@ describe('Calculate', () => {
       assert.equal(actual, expected);
 
       //Teardown - Delete the method under test
+      delete calculate;
     });
 
     it('returns "Invalid input type. Expected a number." if an object was given', () => {
@@ -58,6 +61,7 @@ describe('Calculate', () => {
       assert.equal(actual, expected);
 
       //Teardown - Delete the method under test
+      delete calculate;
     });
 
     it('returns "Invalid input type. Expected a number." if input was not an integer', () => {
@@ -72,6 +76,7 @@ describe('Calculate', () => {
       assert.equal(actual, expected);
 
       //Teardown - Delete the method under test
+      delete calculate;
     });
   });
 });

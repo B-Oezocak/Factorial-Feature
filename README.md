@@ -8,7 +8,7 @@
 
 ## What is Factorial Feature?
 
-[Factorial Feature](https://github.com/B-Oezocak/Factorial-Feature) is a project to create a comprehensive test suite for my JavaScript codebase using the Mocha test framework and assert methods from the Node.js standard library. Testing is a crucial aspect of software development that ensures our code functions as intended and helps prevent bugs from reaching production. By implementing a robust set of tests, we aim to improve the reliability and maintainability of our code.
+[Factorial Feature](https://github.com/B-Oezocak/Factorial-Feature) is a project to create a comprehensive test suite for my JavaScript codebase using Mocha test framework and assert methods from the Node.js standard library to drive development using tests that follow the setup, exercise, and verification phases.. Testing is a crucial aspect of software development that ensures our code functions as intended and helps prevent bugs from reaching production. By implementing a robust set of tests, we aim to improve the reliability and maintainability of our code.
 
 ## Purpose of the Project
 

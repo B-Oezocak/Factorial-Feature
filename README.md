@@ -31,9 +31,7 @@ The main goal of this project is to demonstrate and enhance my skills in writing
 1. Clone the repository: <br>
   git clone https://github.com/B-Oezocak/Factorial-Feature.git <br>
   cd Rooster-Regulation
-2. Install dependencies: <br>
-  npm install
-3. Run the tests: <br>
+2. Run the tests: <br>
   npm test
 
 ## What stage of development am I in right now?
